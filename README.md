@@ -1,10 +1,10 @@
-# Proyecto de Proyecto de Software - Frontend E-Commerce Mates Berazategui
+Proyecto Software - Frontend E-Commerce Mates Berazategui
 
 Este repositorio contiene el frontend de una plataforma de e-commerce especializada en la venta de mates para el emprendimiento de Mates Berazategui. Fue desarrollado como parte de la materia Proyecto de Software. La aplicación sirve como capa de interfaz de usuario, permitiendo a los clientes navegar, seleccionar y comprar productos (la compra es ficticia).
 
 ## Inicio del Proyecto
 
-Este proyecto está desarrollado en **C#** siguiendo una arquitectura **hexagonal**. Para iniciar la aplicación, simplemente ejecutá el siguiente comando desde la terminal:
+Este proyecto está desarrollado en el stack HTML, CSS, y JS. Para iniciar la aplicación, simplemente ejecutá el siguiente comando desde la terminal:
 
 ```
 node app.js
